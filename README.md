@@ -1,1 +1,1 @@
-# React Native Challenge
+# React Native Coding Challenge
