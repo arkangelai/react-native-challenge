@@ -10,7 +10,7 @@ You have 1 week to complete the challenge.
 Follow these instructions to submit your challenge.
 * Setup your Development Environment ([React Native - Getting Started guide](https://facebook.github.io/react-native/docs/getting-started.html))
 * Write your Code
-* Send your final repository to **jobs@arkangel.ai** with subject: *Pokedex Coding Challenge*
+* Send your final repository to **jobs@arkangel.ai** with subject: **Pokedex Coding Challenge**
 
 #### 3. Impress us with your skills
 
